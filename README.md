@@ -1,3 +1,3 @@
 # Controle-Estoque
 
-<a href="https://climacobnu.github.io/Sistema-financeiro/" rel="noopener noreferrer" target="_blank">Clique aqui!</a>
+<a href="https://climacobnu.github.io/Controle-Estoque/" rel="noopener noreferrer" target="_blank">Clique aqui!</a>
